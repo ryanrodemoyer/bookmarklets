@@ -14,22 +14,22 @@ javascript : (function() {
     }
 
     var map = [];
-    map['0'] = 'Q';
-    map['1'] = 'C';
-    map['2'] = 'A';
-    map['3'] = 'M';
-    map['4'] = 'H';
-    map['5'] = 'E';
-    map['6'] = 'U';
-    map['7'] = 'S';
-    map['8'] = 'P';
-    map['9'] = 'I';
-    map['A'] = 'K';
-    map['B'] = 'R';
-    map['C'] = 'Z';
-    map['D'] = 'J';
-    map['E'] = 'G';
-    map['F'] = 'L';
+    map['0'] = 'X';
+    map['1'] = 'Y';
+    map['2'] = 'L';
+    map['3'] = 'G';
+    map['4'] = 'U';
+    map['5'] = 'Z';
+    map['6'] = 'J';
+    map['7'] = 'K';
+    map['8'] = 'L';
+    map['9'] = 'M';
+    map['A'] = 'I';
+    map['B'] = 'A';
+    map['C'] = 'T';
+    map['D'] = 'E';
+    map['E'] = 'F';
+    map['F'] = 'Y';
 
     var output = '';
     for(var i = 0; i < selectedText.length; i++)
